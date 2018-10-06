@@ -1,2 +1,2 @@
 # Hotel_Management_System
-My project
+It is my project using codeignit,ajax
